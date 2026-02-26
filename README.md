@@ -21,6 +21,20 @@ python -m src --help
 python -m src.main hello
 ```
 
+## Knowledge Base
+
+Download official NYC DOB documents into `kb/raw/`:
+
+```bash
+# Download all documents from the manifest
+uv run python -m src.main ingest download
+
+# Force re-download existing files
+uv run python -m src.main ingest download --force
+```
+
+The manifest is defined in `kb/manifest.yaml`.
+
 ## Development
 
 ```bash

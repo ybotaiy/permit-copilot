@@ -1,0 +1,48 @@
+documents:
+  - id: plan-exam-page
+    title: "NYC Plan Examination"
+    url: "https://www.nyc.gov/site/buildings/industry/permits-plan-exam.page"
+    format: html
+    source: nyc-dob
+
+  - id: obj-review-factsheet
+    title: "Objection Review Fact Sheet"
+    url: "https://www.nyc.gov/assets/buildings/pdf/obj_rev_factsheet.pdf"
+    format: pdf
+    source: nyc-dob
+
+  - id: second-review-factsheet
+    title: "Second Review of Plan Examination Objections"
+    url: "https://www.nyc.gov/assets/buildings/pdf/fact-sheet-review-of-objections.pdf"
+    format: pdf
+    source: nyc-dob
+
+  - id: dob-now-build-manual
+    title: "DOB NOW: Build User Manual"
+    url: "https://www.nyc.gov/assets/buildings/pdf/dob_now_build_user_manual.pdf"
+    format: pdf
+    source: nyc-dob
+
+  - id: energy-objections-guide
+    title: "DOB NOW Energy Objections Step-by-Step Guide"
+    url: "https://www.nyc.gov/assets/buildings/pdf/dob_now_build_energy_appointments_objections_step_by_step_guide.pdf"
+    format: pdf
+    source: nyc-dob
+
+  - id: required-items-guide
+    title: "Required Items Reference Guide"
+    url: "https://www.nyc.gov/assets/buildings/pdf/req_items_ref_guide.pdf"
+    format: pdf
+    source: nyc-dob
+
+  - id: ndr-std-drawings
+    title: "NDR Standard Drawings Checklist"
+    url: "https://www.nyc.gov/assets/buildings/pdf/ndr_std_drawings.pdf"
+    format: pdf
+    source: nyc-dob
+
+  - id: jc-zra-zoning-page
+    title: "Jersey City ZRA Zoning Page"
+    url: "https://www.jerseycitynj.gov/cityhall/housinganddevelopment/zoning"
+    format: html
+    source: jersey-city
