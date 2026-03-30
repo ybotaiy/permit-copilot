@@ -1,6 +1,6 @@
 <!-- agent-context:begin -->
 ## Personal KB Context
-Use the linked personal KB before planning or status updates.
+Use the linked personal KB before making planning or status decisions.
 
 Read first:
 1. `.agent-context/profile/communication_style.md`
@@ -34,11 +34,11 @@ Permit Copilot is a skill-native workspace for drafting responses to NYC DOB cor
 
 ## Repo Map
 
-- `.claude/skills/ingest.md`
+- `.Codex/skills/ingest.md`
   Builds or refreshes the Markdown knowledge base.
-- `.claude/skills/search-codes.md`
+- `.Codex/skills/search-codes.md`
   Searches `data/knowledge/` by section number, keyword, or topic.
-- `.claude/skills/analyze-letter.md`
+- `.Codex/skills/analyze-letter.md`
   Parses correction letters, retrieves supporting authority, and drafts responses.
 - `data/knowledge/`
   Version-controlled Markdown corpus with YAML frontmatter.
