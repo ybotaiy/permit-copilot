@@ -1,0 +1,12 @@
+NYC Department of Buildings
+Plan Examination Objections
+Project: Sample Tenant Fit-Out
+Application No.: 123456789
+
+1. Provide occupant load calculations for the second-floor assembly area. Per NYC BC §1004.1.2, indicate the occupant load factor used and revise the life safety plan accordingly.
+
+2. The corridor serving Rooms 201 through 207 appears to create a dead-end corridor condition that exceeds the maximum permitted length. Revise the layout to comply with NYC BC §1020.4.
+
+3. Submit details demonstrating the required fire-resistance rating for the new exit stair shaft enclosure. Provide the listed assembly information and note compliance with NYC BC §713.4.
+
+4. Provide accessible clear floor space and maneuvering clearance at the single-user restroom door. Revise the drawings to comply with NYC BC §1104.3 and §404.2.3.

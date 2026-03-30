@@ -5,6 +5,5 @@ dist/
 *.egg-info/
 .ruff_cache/
 .pytest_cache/
-kb/raw/*.pdf
-kb/raw/*.html
-kb/raw/index.json
+.env
+.DS_Store
