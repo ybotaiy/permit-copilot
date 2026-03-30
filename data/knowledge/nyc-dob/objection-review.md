@@ -3,8 +3,8 @@ source: "NYC DOB Fact Sheets – Second Review of Plan Examination Objections"
 chapter: "Objection Review & Determinations"
 title: "Second Review of Plan Examination Objections"
 doc_type: "fact-sheet"
-version: "January 2022 / June 2010"
-url: "https://www.nyc.gov/buildings"
+version: "January 2022"
+url: "https://www.nyc.gov/assets/buildings/pdf/obj_rev_factsheet.pdf"
 scraped_at: "2026-03-29"
 ---
 
@@ -33,11 +33,9 @@ An applicant requests a second review of plan examination objections by submitti
 
 Submit a completed AI-1 form, with all supporting documentation in **one flattened PDF format**, to the appropriate email address listed below.
 
-Only rejections, following a second review, may be submitted as a Determination request and are subject to determination fees.
+For DOB NOW: Build filings, use the email address specific to the location of the assigned Plan Examiner.
 
 ## Borough Email Addresses
-
-For DOB NOW: Build filings, use the email address specific to the location of the assigned Plan Examiner.
 
 | Borough | Email Address |
 |---|---|
@@ -48,9 +46,6 @@ For DOB NOW: Build filings, use the email address specific to the location of th
 | Staten Island | SIObjectionReview@buildings.nyc.gov |
 | NYC Development HUB | DHubObjectionReview@buildings.nyc.gov |
 | HUB Full Service | HubFSObjectionReview@buildings.nyc.gov |
-| DOB NOW Jobs | DOBNOWObjectionReview@buildings.nyc.gov |
-
-**Note:** The January 2022 fact sheet lists "DHubObjectionReview" for the NYC Development HUB. The June 2010 fact sheet lists "DevHubObjectionReview" and also includes the "DOB NOW Jobs" email address. Use the most current email for your filing type.
 
 Requests for review of objections will only be accepted at the email addresses listed.
 
